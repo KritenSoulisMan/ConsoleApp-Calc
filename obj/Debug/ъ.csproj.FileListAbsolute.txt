@@ -5,3 +5,10 @@ C:\Users\s111\Desktop\biblio_book\ъ\obj\Debug\ъ.csproj.AssemblyReference.cache
 C:\Users\s111\Desktop\biblio_book\ъ\obj\Debug\ъ.csproj.CoreCompileInputs.cache
 C:\Users\s111\Desktop\biblio_book\ъ\obj\Debug\ъ.exe
 C:\Users\s111\Desktop\biblio_book\ъ\obj\Debug\ъ.pdb
+C:\Users\s111\Desktop\ConsoleApp-Calc\bin\Debug\ъ.exe.config
+C:\Users\s111\Desktop\ConsoleApp-Calc\bin\Debug\ъ.exe
+C:\Users\s111\Desktop\ConsoleApp-Calc\bin\Debug\ъ.pdb
+C:\Users\s111\Desktop\ConsoleApp-Calc\obj\Debug\ъ.csproj.AssemblyReference.cache
+C:\Users\s111\Desktop\ConsoleApp-Calc\obj\Debug\ъ.csproj.CoreCompileInputs.cache
+C:\Users\s111\Desktop\ConsoleApp-Calc\obj\Debug\ъ.exe
+C:\Users\s111\Desktop\ConsoleApp-Calc\obj\Debug\ъ.pdb
